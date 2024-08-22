@@ -4,7 +4,7 @@ precioSpan = document.querySelector('.precio-inicial');
 precioSpan.innerHTML = precio;
 
 // Inicializar valores
-const precioInicial = 4000;
+const precioInicial = 400000;
 let cantidad = 0;
 
 // Elementos del DOM
