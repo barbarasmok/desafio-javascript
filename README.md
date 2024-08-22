@@ -1,6 +1,4 @@
 # desafio-javascript
 
-Desafío Javascript - grupal
-Daniel Cortes
-Matías
-Bárbara Smok
+Desafío Javascript Grupal
+Daniel Cortes, Matías San Martín, Bárbara Smok
